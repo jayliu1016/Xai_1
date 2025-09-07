@@ -40,7 +40,8 @@ Steps included:
 ## 📊 Example Output
 
 <img width="629" height="776" alt="Screenshot 2025-09-07 at 5 51 24 PM" src="https://github.com/user-attachments/assets/45d2602c-1dea-4548-a5bf-5efacfd4b680" />
-<img width="1512" height="982" alt="Screenshot 2025-09-07 at 5 28 25 PM" src="https://github.com/user-attachments/assets/6c377cf0-7be2-4953-9e55-69f0d7bd4702" />
+<img width="674" height="604" alt="Screenshot 2025-09-07 at 5 51 31 PM" src="https://github.com/user-attachments/assets/e4b0461f-c6ad-4b23-81f1-4b79ad370099" />
+
 
 
 
