@@ -39,4 +39,5 @@ Steps included:
 
 ## 📊 Example Output
 
-**Permutation Importance (from a local run):**
+<img width="629" height="776" alt="Screenshot 2025-09-07 at 5 51 24 PM" src="https://github.com/user-attachments/assets/45d2602c-1dea-4548-a5bf-5efacfd4b680" />
+
